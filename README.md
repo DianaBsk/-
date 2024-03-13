@@ -32,4 +32,7 @@ $$ E=mc^2 $$
 
 $$ E=mc^2 $$
 
-[A horizontal rule (put one below)]([https://www.example.com](http://rmarkdown.rstudio.com/)http://rmarkdown.rstudio.com/)
+[A hyperlink (to rmarkdown.rstudio.com)](http://rmarkdown.rstudio.com/)
+
+A horizontal rule (put one below)
+---
