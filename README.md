@@ -25,3 +25,9 @@ $$
 ~~striked text~~
 
 superscript <sup>s2</sup>
+
+E=mc2
+
+$$ E=mc2 $$
+
+$$ E=mc2 $$
