@@ -36,3 +36,11 @@ $$ E=mc^2 $$
 
 A horizontal rule (put one below)
 ---
+
+1. An unordered list:
+
+   - Item 1
+   - Item 2
+     -- sub-item 1
+     --  sub-item 2
+
