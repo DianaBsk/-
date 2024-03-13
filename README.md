@@ -22,6 +22,6 @@ $$
 
 ``Monospaced text (e.g., code)``
 
-striked text
+~~striked text~~
 
-superscripts2
+superscript <sup>s2</sup>
