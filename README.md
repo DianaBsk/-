@@ -46,15 +46,15 @@ A horizontal rule (put one below)
 
 <table>
     <tr>
-        <th>Header 1 1</th>
-        <th>Header 2 2</th>
+        <th>Header 1 </th>
+        <th>Header 2 </th>
     </tr>
     <tr>
-        <td>Ячейка 1.1</td>
-        <td>Ячейка 2.1</td>
+        <td>Cell 1</td>
+        <td>Cell 2</td>
     </tr>
     <tr>
-        <td>Ячейка 1.2</td>
-        <td>Ячейка 2.2</td>
+        <td>Cell 3</td>
+        <td>Cell 4</td>
     </tr>
 </table>
