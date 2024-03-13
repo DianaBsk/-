@@ -29,7 +29,7 @@ def fun():
 
 superscript <sup>s2</sup>
 
-
+An inline equation,  $E=mc^2$ . An equation block (below) 
 
 $$ E=mc^2 $$
 
