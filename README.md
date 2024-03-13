@@ -39,8 +39,22 @@ A horizontal rule (put one below)
 
 1.An unordered list:
 
-   - Item 1
-   - Item 2
+   - Header 1
+   - Header 1
      - sub-item 1
      - sub-item 2
 
+<table>
+    <tr>
+        <th>Header 1 1</th>
+        <th>Header 2 2</th>
+    </tr>
+    <tr>
+        <td>Ячейка 1.1</td>
+        <td>Ячейка 2.1</td>
+    </tr>
+    <tr>
+        <td>Ячейка 1.2</td>
+        <td>Ячейка 2.2</td>
+    </tr>
+</table>
