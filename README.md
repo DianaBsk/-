@@ -26,8 +26,10 @@ $$
 
 superscript <sup>s2</sup>
 
-E=mc2
+E=mc^2
 
-$$ E=mc2 $$
+$$ E=mc^2 $$
 
-$$ E=mc2 $$
+$$ E=mc^2 $$
+
+[A horizontal rule (put one below)]([https://www.example.com](http://rmarkdown.rstudio.com/)http://rmarkdown.rstudio.com/)
