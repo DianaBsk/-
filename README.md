@@ -14,7 +14,10 @@ $$
 
 > A block quote
 
-`A plain code block`
+``` python
+def fun():
+    passs
+```
 
 **bold text**
 
@@ -26,7 +29,7 @@ $$
 
 superscript <sup>s2</sup>
 
-E=mc^2
+
 
 $$ E=mc^2 $$
 
@@ -37,12 +40,17 @@ $$ E=mc^2 $$
 A horizontal rule (put one below)
 ---
 
-1.An unordered list:
+An unordered list:
 
    - Header 1
    - Header 1
      - sub-item 1
      - sub-item 2
+
+An ordered list:
+
+1. Item 1
+2. Item 2
 
 <table>
     <tr>
