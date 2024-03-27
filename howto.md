@@ -6,4 +6,4 @@
 4. Установить Sublime Merge
 5. Открыть Sublime Merge
 6. Склонировать рипозиторий
-7. ![[Pasted image 20240327124555.png]]
+7. ![](Pasted%20image%2020240327125126.png)
