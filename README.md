@@ -4,8 +4,11 @@ a^2 = b^2 + c^2
 $$
 
 privet
-poka
-$ E= mc^2
+poka h
+
+
+
+$$ E= mc^2 $$
 
 # A first level header
 # A first level header
